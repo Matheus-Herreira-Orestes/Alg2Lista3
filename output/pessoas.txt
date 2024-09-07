@@ -1,0 +1,16 @@
+Nome: matheus
+Idade: 20
+Altura: 1.80
+
+Nome: pietra
+Idade: 20
+Altura: 1.40
+
+Nome: pietro
+Idade: 2
+Altura: 1.60
+
+Nome: iasd
+Idade: 21
+Altura: 1.90
+
